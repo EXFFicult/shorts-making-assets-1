@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg4163"
+   x="0px"
+   y="0px"
+   width="1080"
+   height="1920"
+   viewBox="0 0 1080 1920"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+   id="title121">FULL_9-16_1920px-1080px_SMPTE-HDTV-Color-Bars.svg</title><defs
+   id="defs42"><linearGradient
+     id="linearGradient18190"
+     gradientUnits="userSpaceOnUse"
+     x1="437.3316"
+     y1="16067"
+     x2="1466.7346"
+     y2="16067"
+     gradientTransform="matrix(1.00058,0,0,1,238.01974,-14377.017)"><stop
+       offset="0"
+       style="stop-color:#000000"
+       id="stop21-2" /><stop
+       offset="1"
+       style="stop-color:#FFFFFF"
+       id="stop23-7" /></linearGradient><linearGradient
+     id="linearGradient234"
+     gradientUnits="userSpaceOnUse"
+     x1="437.3316"
+     y1="16067"
+     x2="1466.7346"
+     y2="16067"
+     gradientTransform="matrix(1.00058,0,0,1,7.4147592,-15302)"><stop
+       offset="0"
+       style="stop-color:#000000"
+       id="stop94-2" /><stop
+       offset="1"
+       style="stop-color:#FFFFFF"
+       id="stop96-4" /></linearGradient><linearGradient
+     xlink:href="#rect4240_00000078752745385694933880000004285230885311537562_"
+     id="linearGradient240"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(1.00058,0,0,1,1028.9148,-14657)"
+     x1="437.3316"
+     y1="16067"
+     x2="1466.7346"
+     y2="16067" /><linearGradient
+     xlink:href="#rect4240_00000078752745385694933880000004285230885311537562_"
+     id="linearGradient685"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(1.00058,0,0,1,7.4147592,-15302)"
+     x1="437.3316"
+     y1="16067"
+     x2="1466.7346"
+     y2="16067" /></defs>
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#666666;}
+	.st1{fill:#BFBFBF;}
+	.st2{fill:#BFBF00;}
+	.st3{fill:#00BFBF;}
+	.st4{fill:#00BF00;}
+	.st5{fill:#BF00BF;}
+	.st6{fill:#BF0000;}
+	.st7{fill:#0000BF;}
+	.st8{fill:#00FFFF;}
+	.st9{fill:#003F69;}
+	.st10{fill:#0000FF;}
+	.st11{fill:#FFFF00;}
+	.st12{fill:#410077;}
+	.st13{fill:url(#rect4240_00000124872297713428260180000006676144504940242612_);}
+	.st14{fill:#FF0000;}
+	.st15{fill:#262626;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:#050505;}
+	.st18{fill:#0A0A0A;}
+</style>
+
+<g
+   id="layer2"
+   style="display:none"><g
+     id="g683"
+     transform="translate(1080)"><g
+       id="layer2-7">
+	<rect
+   id="rect3394-5"
+   width="1920"
+   height="1080"
+   x="0"
+   y="0" />
+	<rect
+   id="rect4808"
+   class="st0"
+   width="240"
+   height="630"
+   x="0"
+   y="0" />
+	<rect
+   id="rect4811"
+   x="240"
+   class="st1"
+   width="205"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4839-9"
+   x="445"
+   class="st2"
+   width="206"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4841-0"
+   x="651"
+   class="st3"
+   width="206"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4843-4"
+   x="857"
+   class="st4"
+   width="206"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4845-1"
+   x="1063"
+   class="st5"
+   width="206"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4847-2"
+   x="1269"
+   class="st6"
+   width="206"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4849-2"
+   x="1475"
+   class="st7"
+   width="205"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4851"
+   x="1680"
+   class="st0"
+   width="240"
+   height="630"
+   y="0" />
+	<rect
+   id="rect4180-5"
+   y="630"
+   class="st8"
+   width="240"
+   height="90"
+   x="0" />
+	<rect
+   id="rect4182-3"
+   x="240"
+   y="630"
+   class="st9"
+   width="205"
+   height="90" />
+	<rect
+   id="rect4232-4"
+   x="445"
+   y="630"
+   class="st1"
+   width="1235"
+   height="90" />
+	<rect
+   id="rect4234-4"
+   x="1680"
+   y="630"
+   class="st10"
+   width="240"
+   height="90" />
+	<rect
+   id="rect4236-3"
+   y="720"
+   class="st11"
+   width="240"
+   height="90"
+   x="0" />
+	<rect
+   id="rect4238-0"
+   x="240"
+   y="720"
+   class="st12"
+   width="205"
+   height="90" />
+	
+		<linearGradient
+   id="rect4240_00000078752745385694933880000004285230885311537562_"
+   gradientUnits="userSpaceOnUse"
+   x1="437.3316"
+   y1="16067"
+   x2="1466.7346"
+   y2="16067"
+   gradientTransform="matrix(1.00058,0,0,1,7.4147592,-15302)">
+		<stop
+   offset="0"
+   style="stop-color:#000000"
+   id="stop625" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop627" />
+	</linearGradient>
+	
+		<rect
+   id="rect4240"
+   x="445"
+   y="720"
+   style="fill:url(#linearGradient685)"
+   width="1030"
+   height="90" />
+	<rect
+   id="rect4250-7"
+   x="1680"
+   y="720"
+   class="st14"
+   width="240"
+   height="90" />
+	<rect
+   id="rect4254-0"
+   y="810"
+   class="st15"
+   width="240"
+   height="270"
+   x="0" />
+	<rect
+   id="rect4256-7"
+   x="240"
+   y="810"
+   width="309"
+   height="270" />
+	<rect
+   id="rect4258-9"
+   x="549"
+   y="810"
+   class="st16"
+   width="411"
+   height="270" />
+	<rect
+   id="rect4260-8"
+   x="960"
+   y="810"
+   width="171"
+   height="270" />
+	<rect
+   id="rect4262-9"
+   x="1131"
+   y="810"
+   width="69"
+   height="270" />
+	<rect
+   id="rect4196-9"
+   x="1200"
+   y="810"
+   width="68"
+   height="270" />
+	<rect
+   id="rect4198-4"
+   x="1268"
+   y="810"
+   class="st17"
+   width="69"
+   height="270" />
+	<rect
+   id="rect4200-5"
+   x="1337"
+   y="810"
+   width="68"
+   height="270" />
+	<rect
+   id="rect4202-7"
+   x="1405"
+   y="810"
+   class="st18"
+   width="69"
+   height="270" />
+	<rect
+   id="rect4204-4"
+   x="1474"
+   y="810"
+   width="206"
+   height="270" />
+	<rect
+   id="rect4206"
+   x="1680"
+   y="810"
+   class="st15"
+   width="240"
+   height="270" />
+</g><rect
+       id="rect4250_00000025417549005041931040000018246960240555599293_"
+       x="1475"
+       y="720"
+       class="st16"
+       width="205"
+       height="90" /></g></g><g
+   id="layer23"><rect
+     id="rect3394"
+     width="1080"
+     height="1920"
+     x="0"
+     y="0"
+     style="stroke-width:1" /></g><g
+   id="layer1"
+   style="display:inline"><g
+     id="layer21"
+     style="display:inline"><g
+       id="layer22"><rect
+         id="rect4254"
+         y="1440"
+         class="st15"
+         width="135"
+         height="480"
+         x="945"
+         style="display:inline;fill:#262626;stroke-width:1" /></g><g
+       id="layer32"><rect
+         id="rect4204"
+         x="829.125"
+         y="1440"
+         width="115.875"
+         height="480"
+         style="display:inline;stroke-width:0.999997" /></g><g
+       id="layer31"><rect
+         id="rect4202"
+         x="790.3125"
+         y="1440"
+         class="st18"
+         width="38.8125"
+         height="480"
+         style="display:inline;fill:#0a0a0a;stroke-width:1" /></g><g
+       id="layer30"><rect
+         id="rect4200"
+         x="752.0625"
+         y="1440"
+         width="38.25"
+         height="480"
+         style="display:inline;stroke-width:1" /></g><g
+       id="layer29"><rect
+         id="rect4198"
+         x="713.25"
+         y="1440"
+         class="st17"
+         width="38.8125"
+         height="480"
+         style="display:inline;fill:#050505;stroke-width:1" /></g><g
+       id="layer28"
+       style="display:inline"><rect
+         id="rect4196"
+         x="675"
+         y="1440"
+         width="38.25"
+         height="480"
+         style="display:inline;stroke-width:1" /></g><g
+       id="layer27"
+       style="display:inline"><rect
+         id="rect4262"
+         x="636.1875"
+         y="1440"
+         width="38.8125"
+         height="480"
+         style="display:inline;stroke-width:1" /></g><g
+       id="layer26"><rect
+         id="rect4260"
+         x="540"
+         y="1440"
+         width="96.1875"
+         height="480"
+         style="display:inline;stroke-width:0.999997" /></g><g
+       id="layer25"
+       style="display:inline"><rect
+         id="rect4258"
+         x="308.8125"
+         y="1440"
+         class="st16"
+         width="231.1875"
+         height="480"
+         style="display:inline;fill:#ffffff;stroke-width:1" /></g><g
+       id="layer24"><rect
+         id="rect4256"
+         x="135"
+         y="1440"
+         width="173.8125"
+         height="480"
+         style="display:inline;stroke-width:0.999997" /></g><g
+       id="g20220"><rect
+         id="rect20218"
+         y="1440"
+         class="st15"
+         width="135"
+         height="480"
+         x="0"
+         style="display:inline;fill:#262626;stroke-width:1" /></g></g><g
+     id="layer12"
+     style="display:inline"><g
+       id="layer20"><rect
+         id="rect4250"
+         x="945"
+         y="1280"
+         class="st14"
+         width="135"
+         height="160"
+         style="display:inline;fill:#ff0000;stroke-width:1" /></g><g
+       id="layer19"><rect
+         id="rect4234"
+         x="945"
+         y="1120"
+         class="st10"
+         width="135"
+         height="160"
+         style="display:inline;fill:#0000ff;stroke-width:1" /></g><g
+       id="layer18"
+       style="display:inline"><g
+         id="g328"
+         transform="matrix(0.5625004,0,0,1.7777778,-574.59426,-1146.6667)"><rect
+           id="rect4240-6-9"
+           x="1466.5"
+           y="1365"
+           style="display:inline;fill:url(#linearGradient240)"
+           width="1030"
+           height="90" /><rect
+           id="rect4250_00000025417549005041931040000018246960240555599293_-5"
+           x="2496.5"
+           y="1365"
+           class="st16"
+           width="205"
+           height="90"
+           style="display:inline;fill:#ffffff" /></g></g><g
+       id="layer17"
+       style="display:inline"><rect
+         id="rect4232"
+         x="250.3125"
+         y="1120"
+         class="st1"
+         width="694.6875"
+         height="160"
+         style="display:inline;fill:#bfbfbf;stroke-width:0.999997" /></g><g
+       id="layer16"><rect
+         id="rect4238"
+         x="135"
+         y="1280"
+         class="st12"
+         width="115.3125"
+         height="160"
+         style="display:inline;fill:#410077;stroke-width:0.999997" /></g><g
+       id="layer15"><rect
+         id="rect4182"
+         x="135"
+         y="1120"
+         class="st9"
+         width="115.3125"
+         height="160"
+         style="display:inline;fill:#003f69;stroke-width:0.999997" /></g><g
+       id="layer14"><rect
+         id="rect4236"
+         y="1280"
+         class="st11"
+         width="135"
+         height="160"
+         x="0"
+         style="display:inline;fill:#ffff00;stroke-width:1" /></g><g
+       id="layer13"><rect
+         id="rect4180"
+         y="1120"
+         class="st8"
+         width="135"
+         height="160"
+         x="0"
+         style="display:inline;fill:#00ffff;stroke-width:0.999999" /></g></g><g
+     id="layer11"><g
+       id="layer10"><rect
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke-width:1.06639"
+         id="rect2607-5"
+         width="135"
+         height="1120"
+         x="945"
+         y="0" /></g><g
+       id="layer9"><rect
+         id="rect4849"
+         x="829.68799"
+         class="st7"
+         width="115.3125"
+         height="1120"
+         y="0"
+         style="display:inline;fill:#0000bf;stroke-width:1" /></g><g
+       id="layer8"><rect
+         id="rect4847"
+         x="713.8125"
+         class="st6"
+         width="115.875"
+         height="1120"
+         y="0"
+         style="display:inline;fill:#bf0000;stroke-width:1" /></g><g
+       id="layer7"><rect
+         id="rect4845"
+         x="597.9375"
+         class="st5"
+         width="115.875"
+         height="1120"
+         y="0"
+         style="display:inline;fill:#bf00bf;stroke-width:1" /></g><g
+       id="layer6"
+       style="display:inline"><rect
+         id="rect4843"
+         x="482.0625"
+         class="st4"
+         width="115.875"
+         height="1120"
+         y="0"
+         style="fill:#00bf00;stroke-width:1" /></g><g
+       id="layer5"><rect
+         id="rect4841"
+         x="366.1875"
+         class="st3"
+         width="115.875"
+         height="1120"
+         y="0"
+         style="display:inline;fill:#00bfbf;stroke-width:1" /></g><g
+       id="layer4"><rect
+         id="rect4839"
+         x="250.3125"
+         class="st2"
+         width="115.875"
+         height="1120"
+         y="0"
+         style="display:inline;fill:#bfbf00;stroke-width:1" /></g><g
+       id="layer3"><rect
+         style="fill:#bfbfbf;fill-opacity:1;fill-rule:evenodd;stroke-width:0.98557"
+         id="rect68"
+         width="115.3125"
+         height="1120"
+         x="135"
+         y="0" /></g><g
+       id="g2609"><rect
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke-width:1.06639"
+         id="rect2607"
+         width="135"
+         height="1120"
+         x="0"
+         y="0" /></g></g></g>
+
+<style
+   type="text/css"
+   id="style198">
+	.st0{fill:#666666;}
+	.st1{fill:#BFBFBF;}
+	.st2{fill:#BFBF00;}
+	.st3{fill:#00BFBF;}
+	.st4{fill:#00BF00;}
+	.st5{fill:#BF00BF;}
+	.st6{fill:#BF0000;}
+	.st7{fill:#0000BF;}
+	.st8{fill:#00FFFF;}
+	.st9{fill:#003F69;}
+	.st10{fill:#0000FF;}
+	.st11{fill:#FFFF00;}
+	.st12{fill:#410077;}
+	.st13{fill:url(#rect4240_00000124872297713428260180000006676144504940242612_);}
+	.st14{fill:#FF0000;}
+	.st15{fill:#262626;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:#050505;}
+	.st18{fill:#0A0A0A;}
+</style><style
+   type="text/css"
+   id="style176">
+	.st0{fill:#666666;}
+	.st1{fill:#BFBFBF;}
+	.st2{fill:#BFBF00;}
+	.st3{fill:#00BFBF;}
+	.st4{fill:#00BF00;}
+	.st5{fill:#BF00BF;}
+	.st6{fill:#BF0000;}
+	.st7{fill:#0000BF;}
+	.st8{fill:#00FFFF;}
+	.st9{fill:#003F69;}
+	.st10{fill:#0000FF;}
+	.st11{fill:#FFFF00;}
+	.st12{fill:#410077;}
+	.st13{fill:url(#rect4240_00000124872297713428260180000006676144504940242612_);}
+	.st14{fill:#FF0000;}
+	.st15{fill:#262626;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:#050505;}
+	.st18{fill:#0A0A0A;}
+</style><style
+   type="text/css"
+   id="style75">
+	.st0{fill:#666666;}
+	.st1{fill:#BFBFBF;}
+	.st2{fill:#BFBF00;}
+	.st3{fill:#00BFBF;}
+	.st4{fill:#00BF00;}
+	.st5{fill:#BF00BF;}
+	.st6{fill:#BF0000;}
+	.st7{fill:#0000BF;}
+	.st8{fill:#00FFFF;}
+	.st9{fill:#003F69;}
+	.st10{fill:#0000FF;}
+	.st11{fill:#FFFF00;}
+	.st12{fill:#410077;}
+	.st13{fill:url(#rect4240_00000124872297713428260180000006676144504940242612_);}
+	.st14{fill:#FF0000;}
+	.st15{fill:#262626;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:#050505;}
+	.st18{fill:#0A0A0A;}
+</style><style
+   type="text/css"
+   id="style606">
+	.st0{fill:#666666;}
+	.st1{fill:#BFBFBF;}
+	.st2{fill:#BFBF00;}
+	.st3{fill:#00BFBF;}
+	.st4{fill:#00BF00;}
+	.st5{fill:#BF00BF;}
+	.st6{fill:#BF0000;}
+	.st7{fill:#0000BF;}
+	.st8{fill:#00FFFF;}
+	.st9{fill:#003F69;}
+	.st10{fill:#0000FF;}
+	.st11{fill:#FFFF00;}
+	.st12{fill:#410077;}
+	.st13{fill:url(#rect4240_00000124872297713428260180000006676144504940242612_);}
+	.st14{fill:#FF0000;}
+	.st15{fill:#262626;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:#050505;}
+	.st18{fill:#0A0A0A;}
+</style><metadata
+   id="metadata119"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>FULL_9-16_1920px-1080px_SMPTE-HDTV-Color-Bars.svg</dc:title><dc:creator><cc:Agent><dc:title>EXFFicult</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by/4.0/" /><dc:date>2022-04-26</dc:date><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>EXFFicult</dc:title></cc:Agent></dc:publisher><dc:contributor><cc:Agent><dc:title>EXFFicult</dc:title></cc:Agent></dc:contributor><dc:description>The most recent and standard SMPTE color bars signal test pattern (SMPTE RP 219:2002) recreated in 9:16 aspect ratio.</dc:description><dc:identifier>https://youtube.com/shorts/eVxJv6N_DKM, https://github.com/EXFFicult/shorts-making-assets-1</dc:identifier><dc:source>https://commons.wikimedia.org/wiki/File:SMPTE_Color_Bars_16x9.svg</dc:source><dc:relation>https://www.arib.or.jp/english/html/overview/doc/6-STD-B28v1_0-E1.pdf</dc:relation><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>#Shorts-making Assets #1</rdf:li></rdf:Bag></dc:subject><dc:coverage>Not Applicable</dc:coverage></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by/4.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
